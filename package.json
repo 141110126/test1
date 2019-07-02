@@ -1,0 +1,23 @@
+{
+  "name": "test1",
+  "version": "0.0.1",
+  "description": "这是一个ui框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/141110126/test1.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "jiwanying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/141110126/test1/issues"
+  },
+  "homepage": "https://github.com/141110126/test1#readme"
+}
